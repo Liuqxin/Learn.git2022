@@ -58,4 +58,12 @@ Facebook has adopted a Code of Conduct that expect project paritciants to adhere
 
 Contribuing Guide 
 ===
-Read
+Read our contrbuting guide to learn about our development process,how to propose bugfixes and improvememts,and how to build and test your changes to React.
+
+Good First Lssues
+====
+To help you get your feet wet and get you familiar with our contribution process,we have a list of good first issues that contain bugs that have a relaiveky limited scope. This is a great place to get stared.
+
+License
+===
+React is MIT licensed.
